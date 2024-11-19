@@ -1,0 +1,6 @@
+tensorflow
+flask
+matplotlib
+Pillow
+numpy
+scipy
